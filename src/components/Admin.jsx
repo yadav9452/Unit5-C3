@@ -1,5 +1,5 @@
 import "../App.css";
-import { userState, useState, useSyncExternalStore } from "react";
+import { useState } from "react";
 import { EmployeeDetails } from "./EmployeeDetails";
 const initstate = {
   employee_name: "",
