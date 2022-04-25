@@ -3,8 +3,39 @@
 }
 
 .navbar {
-  margin: auto;
+  margin-top: 30px;
+  padding: 20px;
 }
 .home {
   margin-right: 20px;
+}
+.nav-home {
+  margin: 20px;
+  background-color: aqua;
+  text-decoration: none;
+  padding: 20px;
+}
+.nav-list {
+  margin: 20px;
+  background-color: aqua;
+  text-decoration: none;
+  padding: 20px;
+}
+.nav-login {
+  margin: 20px;
+  background-color: aqua;
+  text-decoration: none;
+  padding: 20px;
+}
+.nav-admin {
+  margin: 20px;
+  background-color: aqua;
+  text-decoration: none;
+  padding: 20px;
+}
+.nav-logout {
+  margin: 20px;
+  background-color: aqua;
+  text-decoration: none;
+  padding: 20px;
 }
